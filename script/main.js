@@ -298,7 +298,7 @@ const animationTimeline = () => {
   // Go to whatsapp
   const replyBtn = document.getElementById("reply");
   replyBtn.addEventListener("click", () => {
-    var url = "https://wa.me/08102328754?text=I%20love%20it.%20Thank%20you";
+    var url = "https://wa.me/+2348102328754?text=I%20love%20it.%20Thank%20you";
     window.location.href = url;
   });
   // Restart Animation on click
